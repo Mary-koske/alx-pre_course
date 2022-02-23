@@ -1,2 +1,2 @@
 My first readme
-My first edited readme
+"How to be up to date in git"
